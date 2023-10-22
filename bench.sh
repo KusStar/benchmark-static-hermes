@@ -9,3 +9,6 @@ echo "Bench benches/json.js"
 
 echo "Bench benches/md5.js"
 ./batch.sh benches/md5.js
+
+echo "Bench benches/nbody"
+./bench_nbody.sh
