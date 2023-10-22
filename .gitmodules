@@ -1,0 +1,7 @@
+[submodule "hermes"]
+	path = hermes
+	url = https://github.com/facebook/hermes
+
+[submodule "QuickJS"]
+	path = QuickJS
+	url = https://github.com/quickjs-zh/QuickJS
